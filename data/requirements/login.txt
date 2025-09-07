@@ -5,3 +5,4 @@ Details:
 - Users should have an option to reset their password via the "Forgot Password" link.
 - Successful login should redirect the user to their dashboard.
 - Error messages must be displayed for invalid credentials.
+- The login form should include fields for email and password, and a "Remember Me" checkbox.
